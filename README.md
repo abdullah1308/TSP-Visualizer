@@ -9,4 +9,4 @@ Team Members:
 2. Abdullah Mohamed Rafi 201IT102
 3. Akheel Muhammed 201IT206
 
-Topic is * Visualization of heuristics for solving the Travelling Salesman Problem *
+Topic is **Visualization of heuristics for solving the Travelling Salesman Problem**
