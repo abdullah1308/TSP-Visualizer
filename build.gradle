@@ -1,0 +1,31 @@
+
+
+buildscript {
+    ext.kotlin_version = '1.6.0'
+
+    repositories {
+        mavenCentral()
+    }
+    dependencies {
+        classpath "org.jetbrains.kotlin:kotlin-gradle-plugin:$kotlin_version"
+    }
+}
+
+apply plugin: 'kotlin'
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    implementation 'no.tornado:tornadofx:1.7.20'
+    implementation 'org.ojalgo:okalgo:0.0.2'
+    implementation "org.jetbrains.kotlin:kotlin-stdlib-jdk8:$kotlin_version"
+}
+
+compileKotlin {
+    kotlinOptions.jvmTarget = "1.8"
+}
+compileTestKotlin {
+    kotlinOptions.jvmTarget = "1.8"
+}
