@@ -9,7 +9,7 @@ Setup this project using either of the following methods -
 
 - If you don't have SDK version 1.8 available, you may install it from [here](https://www.openlogic.com/openjdk-downloads?field_java_parent_version_target_id=416&field_operating_system_target_id=All&field_architecture_target_id=All&field_java_package_target_id=All). Then restart IntelliJ to get SDK version 1.8 under `SDK:`.
 
-- To run the project from IntelliJ, run`launcher.kt`  under `src/main/kotlin`.
+- To run the project from IntelliJ, run `launcher.kt`  under `src/main/kotlin`.
 
 ## Usage
 
