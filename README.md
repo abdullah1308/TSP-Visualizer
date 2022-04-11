@@ -1,5 +1,5 @@
 # TSP - Visualizer
-A visualizer for heuristics that solve the travelling salesman problem built in Kotlin.
+A visualizer for heuristics that solve the travelling salesman problem for custom plots built in Kotlin.
 A paper written for the project can be found [here](https://drive.google.com/file/d/1kvqbJd-M_eg1wZ6G6AydzIJHQLflnWUh/view?usp=sharing).
 ## Setup and Installation
 Setup this project using either of the following methods -
